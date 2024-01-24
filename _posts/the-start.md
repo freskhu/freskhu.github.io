@@ -6,7 +6,7 @@ tags: [general,homelab]
 ---
 
 ## What is this space
-This space will store the documentation used for my HomeLab services and development. I will dedicate a space to share crypto, trading bots, and general trading stuff.
+This space will store the documentation used for my HomeLab services and development. I will dedicate a space to share crypto, trading bots, and general trading stuff..
 
 ## Why
 My main objective with this space is to store my documentation in an organized manner and to share with family and friends easily
