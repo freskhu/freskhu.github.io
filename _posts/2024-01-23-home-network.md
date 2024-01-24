@@ -1,6 +1,6 @@
 ---
 title: Configuring my network 
-date: 2024-01-24 12:00:00 -500 
+date: 2024-01-23 12:00:00 -500 
 categories: [general, homelab, networking]
 tags: [homelab,proxmox,server,wireless]
 ---
